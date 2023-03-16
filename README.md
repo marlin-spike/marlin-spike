@@ -19,5 +19,3 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-spike&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-spike&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
